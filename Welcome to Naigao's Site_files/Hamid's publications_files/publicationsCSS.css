@@ -1,0 +1,123 @@
+#PubSearchTools{
+	margin:5px;
+	padding:0px;
+	padding-left:5px;
+	border-bottom:solid 2px #000000;
+}
+
+#PubSearchTools s{
+	opacity:0.7;
+}
+
+#upperLeftSide{
+	float:left;
+	border:solid;
+	margin-top:5px;
+	padding:10px;
+	border:none;
+	border-width:3px;
+	border-color:#000;
+	border-radius:10px;
+	background-color:#CCC;
+	color:#000000;
+	opacity:1;
+	font-size:14px;
+	}
+	
+.PubHeader{
+	margin:5px;
+	color:#000;
+	padding-top:10px;
+	margin-bottom:10px;
+	margin-top:0px;
+	
+}
+.PubHeader h2{
+	margin:0px;
+	padding:0px;
+	font-weight:bold;
+	color:#006;
+}
+
+.PubDiv{
+	text-align:justify;
+	padding:0;
+	margin:0;
+	padding-left:20px;
+	padding-right:10px;
+}
+
+.PubPaperAuthors{
+	font-family:"Times New Roman", Times, serif;
+	color:#000000;
+}
+.PubPaperNameType{
+	font-style:italic;
+	color:#0000FF;
+}
+.PubPaperWhere{
+	color:#000000;
+}
+.PubPaperMyName{
+	font-weight:bold;	
+}
+
+.PubConf{
+}
+
+.PubThesis{
+}
+
+.PubJournal{
+}
+
+
+.Pub2012{
+}
+
+.Pub2013{
+}
+
+.Pub2014{
+}
+
+.PubSubmitted{
+}
+
+.PubOthers{
+}
+
+.PubSearchIMG{
+	opacity:1;
+}
+
+.PubBox_icon{
+	 background-color:#096;
+	 opacity:1;
+	 border: 1px solid #000;
+	 padding: 5px;
+	 margin-top:10px;
+	 margin-left:5p;
+	 display:none;
+	 position:absolute;
+}
+
+.PubBox_icon_disp{
+	 background-color:#096;
+	 opacity:1;
+	 border: 1px solid #000;
+	 padding: 5px;
+	 margin-top:10px;
+	 margin-left:5p;
+	 display:block;
+	 position:absolute;	
+}
+
+.hrefpdflink{
+	font-style:italic;
+	color:#990000;
+}
+
+.pubLinks{
+	color:#C03;
+}

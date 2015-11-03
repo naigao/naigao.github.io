@@ -1,0 +1,94 @@
+/* Usefull classes */
+.box_footer {
+	 background-color:#757500;
+	 border: 1px solid #000;
+	 height: 100px;
+	 width: 200px;
+	 padding: 5px;
+	 margin-left:5p;
+	 display:none;
+	 position:absolute; 
+}
+
+.box_icon{
+	 background-color:#CCC;
+	 opacity:.7;
+	 border: 1px solid #000;
+	 padding: 5px;
+	 margin-top:10px;
+	 margin-left:5p;
+	 display:none;
+	 position:absolute;
+}
+
+.box_icon_disp{
+	 background-color:#CCC;
+	 opacity:.7;
+	 border: 1px solid #000;
+	 padding: 5px;
+	 margin-top:10px;
+	 margin-left:5p;
+	 display:block;
+	 position:absolute;	
+}
+
+.Phd_Children{
+	top:0;
+	left:0;
+	margin:0px;
+	padding:0px;
+	display:none;
+	z-index:100;
+	position:absolute;
+	width:167px;
+}
+
+.Dwl_Children{
+	top:0;
+	left:0;
+	display:none;
+	z-index:100;
+	position:absolute;
+	width:167px;
+}
+
+.class_mainIneerboxFadable{
+	opacity:0.7;
+}
+
+
+/* Coll Classes */
+.myBoxFill{
+	height:0px;
+	width:0px;
+	border: solid 1px #000000;	
+	position:absolute;
+	z-index:-1;
+	background-color:#666666;
+	opacity:1;
+}
+
+.notActive{
+	
+}
+
+.myNameWeb{
+	margin:0px;
+	padding:5px;
+	font-size:8px;
+	font-family:"Comic Sans MS", cursive;
+	font-weight:bold;
+	font-style:italic;
+	color:#000000;
+	position:absolute;
+}
+
+.flagCnt{
+	position:absolute;
+	top:5px;
+	left:5px;
+	height:0px;
+	visibility:visible;
+	opacity:0;
+	background-color:transparent;
+}
